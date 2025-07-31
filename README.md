@@ -1,6 +1,6 @@
 # lab_688B2FA9 : Ready your tools
 
-![](./img/banner.jpg)
+![](./src/img/banner.jpg)
 
 Please complete the following tasks below.  
 
