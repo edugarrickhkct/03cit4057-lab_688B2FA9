@@ -14,11 +14,11 @@ Please use this GitHub id throughout this module.
 
 
 
-### Task 2: Discord
+### Task 2: Microsoft Teams
 
-Please follow the instruction in the URL below and create your Discord account.
+Please follow the instruction in the URL below to join the Teams group.
 
-[https://github.com/edugarrick/myprofile/blob/main/docs/MyDiscordServer.md]( https://github.com/edugarrick/myprofile/blob/main/docs/MyDiscordServer.md)
+[https://github.com/edugarrick/myprofile/blob/main/docs/TeamsInstruction.md]( https://github.com/edugarrick/myprofile/blob/main/docs/TeamsInstruction.md)
 
 ### Task 3: Recommended reading
 
